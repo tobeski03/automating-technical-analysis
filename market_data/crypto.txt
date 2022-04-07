@@ -1,5 +1,6 @@
 Currency Name,Market Name,Bittrex Pair,Binance Pair,Market,Last Update
 Litecoin,Bitcoin,BTC-LTC,LTCBTC,BTC,2021-05-30
+BinanceCoin,Bitcoin,BTC-BNB,BNBBTC,BTC
 Dogecoin,Bitcoin,BTC-DOGE,DOGEBTC,BTC,
 Groestlcoin,Bitcoin,BTC-GRS,GRSBTC,BTC,
 Navcoin,Bitcoin,BTC-NAV,NAVBTC,BTC,
@@ -84,6 +85,7 @@ Tron,Bitcoin,BTC-TRX,TRXBTC,BTC,
 Tron,Ethereum,ETH-TRX,TRXETH,ETH,
 Loopring,Bitcoin,BTC-LRC,LRCBTC,BTC,
 TrueUSD,Tether,USDT-TUSD,TUSDUSDT,USDT,
+BinanceCoin,Tether,USDT-BNB,BNBUSDT,USDT
 Siacoin,Tether,USDT-SC,SCUSDT,USDT,
 Tron,Tether,USDT-TRX,TRXUSDT,USDT,
 StormX,Bitcoin,BTC-STMX,STMXBTC,BTC,
